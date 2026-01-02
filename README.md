@@ -1,4 +1,4 @@
-# 🤖 AI Trainings: Introduction to LLM-Based Applications
+# AI Trainings: Introduction to LLM-Based Applications
 
 Welcome to this beginner-friendly training series! These hands-on labs will teach you how to build real-world applications using Large Language Models (LLMs), Vector Databases, and Retrieval Augmented Generation (RAG).
 
