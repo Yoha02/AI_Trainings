@@ -1,0 +1,481 @@
+{
+  "_id": "108010223",
+  "createdDtm": "2021-04-19 23:40:33.165000",
+  "modifiedDtm": "2025-03-18 17:38:09.664000",
+  "bpnId": "108010223",
+  "dimension": { "width": 15.7, "depth": 4.89, "height": 5.22 },
+  "detailDescription": {
+    "directions": "Ready to drink",
+    "ingredients": "Carbonated Water, High Fructose Corn Syrup, Caramel Color, Phosphoric Acid, Natural Flavors.",
+    "productDetails": null,
+    "indications": null,
+    "warnings": null,
+    "drugInteractions": null,
+    "vintage": null,
+    "category": "Soda & other soft ready-to-drink beverages",
+    "hasNutrition": null,
+    "itemSize": "144",
+    "itemMeasure": "fl. oz",
+    "weight": "10.45",
+    "extentedSize": null,
+    "valuePreparedCount": null
+  },
+  "manufactureInfo": {
+    "address": "",
+    "copyright": "",
+    "manufacture": "The Coca-Cola Company",
+    "phone": ""
+  },
+  "nutritionPanels": [
+    {
+      "nutritionFacts": [
+        {
+          "nutritionName": "Calories",
+          "isOrContains": 0,
+          "percentage": 0.0,
+          "quantity": 140.0,
+          "uom": "kcal"
+        },
+        {
+          "nutritionName": "Calories From Fat",
+          "isOrContains": 0,
+          "quantity": 0.0,
+          "uom": "kcal"
+        },
+        {
+          "nutritionName": "Total Fat",
+          "isOrContains": 0,
+          "percentage": 0.0,
+          "quantity": 0.0,
+          "uom": "g"
+        },
+        {
+          "nutritionName": "Saturated Fat",
+          "isOrContains": 0,
+          "percentage": 0.0,
+          "quantity": 0.0,
+          "uom": "g"
+        },
+        {
+          "nutritionName": "Trans Fat",
+          "isOrContains": 0,
+          "percentage": 0.0,
+          "quantity": 0.0,
+          "uom": "g"
+        },
+        {
+          "nutritionName": "Cholesterol",
+          "isOrContains": 0,
+          "percentage": 0.0,
+          "quantity": 0.0,
+          "uom": "mg"
+        },
+        {
+          "nutritionName": "Sodium",
+          "isOrContains": 0,
+          "percentage": 1.0,
+          "quantity": 35.0,
+          "uom": "mg"
+        },
+        {
+          "nutritionName": "Total Carbohydrate",
+          "isOrContains": 0,
+          "percentage": 14.0,
+          "quantity": 39.0,
+          "uom": "g"
+        },
+        {
+          "nutritionName": "Dietary Fiber",
+          "isOrContains": 0,
+          "percentage": 0.0,
+          "quantity": 0.0,
+          "uom": "g"
+        },
+        {
+          "nutritionName": "Total Sugars",
+          "isOrContains": 0,
+          "percentage": 0.0,
+          "quantity": 39.0,
+          "uom": "g"
+        },
+        {
+          "nutritionName": "Added Sugars",
+          "isOrContains": 0,
+          "percentage": 79.0,
+          "quantity": 39.0,
+          "uom": "g"
+        },
+        {
+          "nutritionName": "Protein",
+          "isOrContains": 0,
+          "percentage": 0.0,
+          "quantity": 0.0,
+          "uom": "g"
+        },
+        {
+          "nutritionName": "Vitamin A",
+          "isOrContains": 0,
+          "percentage": 0.0,
+          "quantity": 0.0,
+          "uom": "mcg"
+        },
+        {
+          "nutritionName": "Vitamin C",
+          "isOrContains": 0,
+          "percentage": 0.0,
+          "quantity": 0.0,
+          "uom": "mcg"
+        },
+        {
+          "nutritionName": "Vitamin D",
+          "isOrContains": 0,
+          "percentage": 0.0,
+          "quantity": 0.0,
+          "uom": "mcg"
+        },
+        {
+          "nutritionName": "Calcium",
+          "isOrContains": 0,
+          "percentage": 0.0,
+          "quantity": 0.0,
+          "uom": "mg"
+        },
+        {
+          "nutritionName": "Iron",
+          "isOrContains": 0,
+          "percentage": 0.0,
+          "quantity": 0.0,
+          "uom": "mg"
+        },
+        {
+          "nutritionName": "Potassium",
+          "isOrContains": 0,
+          "percentage": 0.0,
+          "quantity": 0.0,
+          "uom": "mg"
+        },
+        {
+          "nutritionName": "Ash",
+          "isOrContains": 0,
+          "quantity": 0.0,
+          "uom": "g"
+        },
+        {
+          "nutritionName": "Biotin",
+          "isOrContains": 0,
+          "percentage": 0.0,
+          "quantity": 0.0,
+          "uom": "mcg"
+        },
+        {
+          "nutritionName": "Caffeine",
+          "isOrContains": 0,
+          "quantity": 0.0,
+          "uom": "mg"
+        },
+        {
+          "nutritionName": "Chloride",
+          "isOrContains": 0,
+          "percentage": 0.0,
+          "quantity": 0.0,
+          "uom": "mg"
+        },
+        {
+          "nutritionName": "Chromium",
+          "isOrContains": 0,
+          "percentage": 0.0,
+          "quantity": 0.0,
+          "uom": "mcg"
+        },
+        {
+          "nutritionName": "Copper",
+          "isOrContains": 0,
+          "percentage": 0.0,
+          "quantity": 0.0,
+          "uom": "mg"
+        },
+        {
+          "nutritionName": "Folate",
+          "isOrContains": 0,
+          "quantity": 0.0,
+          "uom": "mcg"
+        },
+        {
+          "nutritionName": "Insoluble Fiber",
+          "isOrContains": 0,
+          "quantity": 0.0,
+          "uom": "g"
+        },
+        {
+          "nutritionName": "Iodine",
+          "isOrContains": 0,
+          "percentage": 0.0,
+          "quantity": 0.0,
+          "uom": "mcg"
+        },
+        {
+          "nutritionName": "Magnesium",
+          "isOrContains": 0,
+          "percentage": 0.0,
+          "quantity": 0.0,
+          "uom": "mg"
+        },
+        {
+          "nutritionName": "Manganese",
+          "isOrContains": 0,
+          "percentage": 0.0,
+          "quantity": 0.0,
+          "uom": "mg"
+        },
+        {
+          "nutritionName": "Molybdenum",
+          "isOrContains": 0,
+          "quantity": 0.0,
+          "uom": "mcg"
+        },
+        {
+          "nutritionName": "Monounsaturated Fat",
+          "isOrContains": 0,
+          "percentage": 0.0,
+          "quantity": 0.0,
+          "uom": "g"
+        },
+        {
+          "nutritionName": "Niacin",
+          "isOrContains": 0,
+          "percentage": 0.0,
+          "quantity": 0.0,
+          "uom": "mg"
+        },
+        {
+          "nutritionName": "Omega 6 Fatty Acids",
+          "isOrContains": 0,
+          "quantity": 0.0,
+          "uom": "g"
+        },
+        {
+          "nutritionName": "Omega3 Fatty Acid",
+          "isOrContains": 0,
+          "quantity": 0.0,
+          "uom": "g"
+        },
+        {
+          "nutritionName": "Other Carbohydrates",
+          "isOrContains": 0,
+          "quantity": 0.0,
+          "uom": "g"
+        },
+        {
+          "nutritionName": "Pantothenic",
+          "isOrContains": 0,
+          "percentage": 0.0,
+          "quantity": 0.0,
+          "uom": "mg"
+        },
+        {
+          "nutritionName": "Polyunsaturated Fat",
+          "isOrContains": 0,
+          "percentage": 0.0,
+          "quantity": 0.0,
+          "uom": "g"
+        },
+        {
+          "nutritionName": "Riboflavin B2",
+          "isOrContains": 0,
+          "percentage": 0.0,
+          "quantity": 0.0,
+          "uom": "mg"
+        },
+        {
+          "nutritionName": "Selenium",
+          "isOrContains": 0,
+          "percentage": 0.0,
+          "quantity": 0.0,
+          "uom": "mcg"
+        },
+        {
+          "nutritionName": "Soluble Fiber",
+          "isOrContains": 0,
+          "quantity": 0.0,
+          "uom": "g"
+        },
+        {
+          "nutritionName": "Thiamin",
+          "isOrContains": 0,
+          "percentage": 0.0,
+          "quantity": 0.0,
+          "uom": "mg"
+        },
+        {
+          "nutritionName": "Vitamin B12",
+          "isOrContains": 0,
+          "percentage": 0.0,
+          "quantity": 0.0,
+          "uom": "mcg"
+        },
+        {
+          "nutritionName": "Vitamin B6",
+          "isOrContains": 0,
+          "percentage": 0.0,
+          "quantity": 0.0,
+          "uom": "mg"
+        },
+        {
+          "nutritionName": "Vitamin E",
+          "isOrContains": 0,
+          "percentage": 0.0,
+          "quantity": 0.0,
+          "uom": "mg"
+        },
+        {
+          "nutritionName": "Vitamin K",
+          "isOrContains": 0,
+          "percentage": 0.0,
+          "quantity": 0.0,
+          "uom": "mcg"
+        },
+        {
+          "nutritionName": "Zinc",
+          "isOrContains": 0,
+          "percentage": 0.0,
+          "quantity": 0.0,
+          "uom": "mg"
+        },
+        {
+          "nutritionName": "Folate",
+          "isOrContains": 0,
+          "percentage": 0.0,
+          "quantity": 0.0,
+          "uom": "mcg"
+        },
+        {
+          "nutritionName": "MPhosphorous",
+          "isOrContains": 0,
+          "percentage": 6.0,
+          "quantity": 60.0,
+          "uom": "g"
+        }
+      ],
+      "servingDetails": {
+        "addedItem": "",
+        "servingSizeText": "12",
+        "servingSizeUOM": "OZA",
+        "servingsPerContainer": "12"
+      }
+    }
+  ],
+  "enrichmentDesc": "Coca-Cola Caffeine-Free Fridge Pack Cans, 12 fl oz, 12 Pack",
+  "allergens": [
+    { "id": "277", "name": "Does not contain Fish", "rank": null },
+    { "id": "284", "name": "Does not contain Egg", "rank": null },
+    { "id": "271", "name": "Does not contain Wheat", "rank": null },
+    { "id": "285", "name": "Does not contain Soy", "rank": null },
+    {
+      "id": "286",
+      "name": "Does not contain Crustacean Shellfish",
+      "rank": null
+    },
+    { "id": "288", "name": "Does not contain Tree Nuts", "rank": null },
+    { "id": "278", "name": "Does not contain Milk", "rank": null },
+    { "id": "275", "name": "Does not contain Peanuts", "rank": null }
+  ],
+  "healthClaims": [
+    { "id": "4", "name": "Vegetarian", "rank": null },
+    { "id": "18", "name": "Fat Free", "rank": null },
+    { "id": "2", "name": "Vegan", "rank": null },
+    { "id": "23", "name": "Pescatarian", "rank": null }
+  ],
+  "primaryUpcCorp": "0004900002933",
+  "primaryRog": "AJWL",
+  "name": "Coca-Cola Soda Pop Caffeine Free - 12.12 Fl. Oz.",
+  "brand": "Coca-Cola",
+  "salesRank": 4510,
+  "isArProduct": true,
+  "status": "active",
+  "department": {
+    "departmentCode": 5,
+    "departmentId": "1_5",
+    "image": "/images/cfh/5.jpg",
+    "name": "Beverages",
+    "urlName": "Beverages"
+  },
+  "shelf": {
+    "image": "/images/cfh/5_7_1.jpg",
+    "name": "Cola",
+    "shelfCode": 1,
+    "shelfId": "1_5_7_1",
+    "urlName": "Cola"
+  },
+  "aisle": {
+    "aisleCode": 7,
+    "aisleId": "1_5_7",
+    "image": "/images/cfh/5_7.jpg",
+    "name": "Soft Drinks",
+    "urlName": "Soft-Drinks"
+  },
+  "isHhcProduct": false,
+  "deptOverrideCd": "0",
+  "restrictedValue": 0,
+  "marketingContent": [
+    {
+      "vendorName": "salsify",
+      "featureBenefitBullets": [
+        "Coca-Cola Caffeine Free\u2014the crisp, refreshing taste you know and love",
+        "Coke, making life magic since 1886",
+        "Enjoy delicious and refreshing Coca-Cola sodas to refresh your day.",
+        "Caffeine-free",
+        "12 pack, 12 fl oz cans of Coca-Cola Caffeine-Free"
+      ],
+      "marketCopy": "Soda. Pop. Soft drink. Sparkling beverage. \n\nWhatever you call it, nothing compares to the refreshing, crisp taste of Coca-Cola Caffeine Free, the delicious soda you know and love, available without caffeine. Enjoy with friends, on the go or with a meal. Whatever the occasion, wherever you are, Coca-Cola Caffeine Free makes life\u2019s special moments a little bit better.\n\nSomething so delicious, so unique and so familiar, it\u2019s what makes you think \u201cCoca-Cola\u201d whenever you hear \u201csoft drink.\u201d Between that perfect taste and the refreshing fizz, it\u2019s sure to give you that \u201cahhh\u201d moment whenever you want it. \n\nCoca-Cola is available in many different options, including Coca-Cola Original Taste, Coca-Cola Zero Sugar, and a variety of all-time favorite flavors like Coca-Cola Cherry and Coca-Cola Vanilla. Whatever you\u2019re looking for, there\u2019s a Coca-Cola to satisfy your taste buds.\n \nEvery sip, every \u201cahhh,\u201d every smile\u2014find that feeling with Coca-Cola Caffeine Free. Best enjoyed ice-cold for maximum refreshment. Grab a Coca-Cola Caffeine Free, take a sip and find your \u201cahhh\u201d moment.\n\nEnjoy Coca-Cola Caffeine Free."
+    }
+  ],
+  "smartLabelLink": null,
+  "recycleInfo": null,
+  "displayType": -1,
+  "serviceDeptNum": null,
+  "nutritionGroups": {
+    "nutritionContent": [{ "id": "18", "name": "Fat Free" }],
+    "diet": [
+      { "id": "4", "name": "Vegetarian" },
+      { "id": "2", "name": "Vegan" },
+      { "id": "23", "name": "Pescatarian" }
+    ],
+    "dietaryRestriction": []
+  },
+  "ingredientComponents": {
+    "foodGroupPerc": [
+      { "key": "grains", "value": 0.0 },
+      { "key": "fruit", "value": 0.0 },
+      { "key": "vegetables", "value": 0.0 },
+      { "key": "dairy", "value": 0.0 },
+      { "key": "protein", "value": 0.0 },
+      { "key": "discretionary", "value": 1.0 },
+      { "key": "ignore", "value": 0.0 }
+    ],
+    "foodGroupServings": [
+      { "key": "grains", "value": 0.0 },
+      { "key": "fruit", "value": 0.0 },
+      { "key": "vegetables", "value": 0.0 },
+      { "key": "dairy", "value": 0.0 },
+      { "key": "protein", "value": 0.0 }
+    ],
+    "primaryFoodGroup": "discretionary"
+  },
+  "readyMeals": null,
+  "isSingleFormula": null,
+  "sacTags": {
+    "sacNonSearchableAttribute": [
+      { "tag": "[IMPORT] Movie_Soda p9p14my9 1_5_7 [UPDATED]" }
+    ],
+    "sacSearchableAttribute": []
+  },
+  "ownBrandFlag": false,
+  "isProductTrackingDisabled": null,
+  "dynamicAttributes": {
+    "Package Type": "Can",
+    "Package Size": "12Pk",
+    "Flavor": "Classic"
+  },
+  "healthScore": 1.0,
+  "healthScoreWeight": 2.71
+}

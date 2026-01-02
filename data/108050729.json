@@ -1,0 +1,473 @@
+{
+  "_id": "108050729",
+  "createdDtm": "2021-04-19 23:41:16.545000",
+  "modifiedDtm": "2025-03-20 05:14:08.155000",
+  "bpnId": "108050729",
+  "dimension": { "width": 3.43, "depth": 3.43, "height": 10.33 },
+  "detailDescription": {
+    "directions": "Ready to drink",
+    "ingredients": "Carbonated Water, High Fructose Corn Syrup, Citric Acid, Natural Flavors, Sodium Citrate, Sodium Benzoate (To Protect Taste).",
+    "productDetails": null,
+    "indications": null,
+    "warnings": null,
+    "drugInteractions": null,
+    "vintage": null,
+    "category": "Soda & other soft ready-to-drink beverages",
+    "hasNutrition": null,
+    "itemSize": "33",
+    "itemMeasure": "fl. oz",
+    "weight": "2.38",
+    "extentedSize": null,
+    "valuePreparedCount": null
+  },
+  "manufactureInfo": {
+    "address": "",
+    "copyright": "",
+    "manufacture": "The Coca-Cola Company",
+    "phone": ""
+  },
+  "nutritionPanels": [
+    {
+      "nutritionFacts": [
+        {
+          "nutritionName": "Calories",
+          "isOrContains": 0,
+          "percentage": 0.0,
+          "quantity": 140.0,
+          "uom": "kcal"
+        },
+        {
+          "nutritionName": "Calories From Fat",
+          "isOrContains": 0,
+          "percentage": 0.0,
+          "quantity": 0.0,
+          "uom": "kcal"
+        },
+        {
+          "nutritionName": "Total Fat",
+          "isOrContains": 0,
+          "percentage": 0.0,
+          "quantity": 0.0,
+          "uom": "g"
+        },
+        {
+          "nutritionName": "Saturated Fat",
+          "isOrContains": 0,
+          "percentage": 0.0,
+          "quantity": 0.0,
+          "uom": "g"
+        },
+        {
+          "nutritionName": "Trans Fat",
+          "isOrContains": 0,
+          "percentage": 0.0,
+          "quantity": 0.0,
+          "uom": "g"
+        },
+        {
+          "nutritionName": "Cholesterol",
+          "isOrContains": 0,
+          "percentage": 0.0,
+          "quantity": 0.0,
+          "uom": "mg"
+        },
+        {
+          "nutritionName": "Sodium",
+          "isOrContains": 0,
+          "percentage": 3.0,
+          "quantity": 70.0,
+          "uom": "mg"
+        },
+        {
+          "nutritionName": "Total Carbohydrate",
+          "isOrContains": 0,
+          "percentage": 14.0,
+          "quantity": 39.0,
+          "uom": "g"
+        },
+        {
+          "nutritionName": "Dietary Fiber",
+          "isOrContains": 0,
+          "percentage": 0.0,
+          "quantity": 0.0,
+          "uom": "g"
+        },
+        {
+          "nutritionName": "Total Sugars",
+          "isOrContains": 0,
+          "percentage": 0.0,
+          "quantity": 38.0,
+          "uom": "g"
+        },
+        {
+          "nutritionName": "Added Sugars",
+          "isOrContains": 0,
+          "percentage": 76.0,
+          "quantity": 38.0,
+          "uom": "g"
+        },
+        {
+          "nutritionName": "Protein",
+          "isOrContains": 0,
+          "percentage": 0.0,
+          "quantity": 0.0,
+          "uom": "g"
+        },
+        {
+          "nutritionName": "Vitamin A",
+          "isOrContains": 0,
+          "percentage": 0.0,
+          "quantity": 0.0,
+          "uom": "mcg"
+        },
+        {
+          "nutritionName": "Vitamin C",
+          "isOrContains": 0,
+          "percentage": 0.0,
+          "quantity": 0.0,
+          "uom": "mcg"
+        },
+        {
+          "nutritionName": "Vitamin D",
+          "isOrContains": 0,
+          "percentage": 0.0,
+          "quantity": 0.0,
+          "uom": "mcg"
+        },
+        {
+          "nutritionName": "Calcium",
+          "isOrContains": 0,
+          "percentage": 0.0,
+          "quantity": 0.0,
+          "uom": "mg"
+        },
+        {
+          "nutritionName": "Iron",
+          "isOrContains": 0,
+          "percentage": 0.0,
+          "quantity": 0.0,
+          "uom": "mg"
+        },
+        {
+          "nutritionName": "Potassium",
+          "isOrContains": 0,
+          "percentage": 0.0,
+          "quantity": 0.0,
+          "uom": "mg"
+        },
+        {
+          "nutritionName": "Ash",
+          "isOrContains": 0,
+          "quantity": 0.0,
+          "uom": "g"
+        },
+        {
+          "nutritionName": "Biotin",
+          "isOrContains": 0,
+          "percentage": 0.0,
+          "quantity": 0.0,
+          "uom": "mcg"
+        },
+        {
+          "nutritionName": "Caffeine",
+          "isOrContains": 0,
+          "quantity": 0.0,
+          "uom": "mg"
+        },
+        {
+          "nutritionName": "Chloride",
+          "isOrContains": 0,
+          "percentage": 0.0,
+          "quantity": 0.0,
+          "uom": "mg"
+        },
+        {
+          "nutritionName": "Chromium",
+          "isOrContains": 0,
+          "percentage": 0.0,
+          "quantity": 0.0,
+          "uom": "mcg"
+        },
+        {
+          "nutritionName": "Copper",
+          "isOrContains": 0,
+          "percentage": 0.0,
+          "quantity": 0.0,
+          "uom": "mg"
+        },
+        {
+          "nutritionName": "Folate",
+          "isOrContains": 0,
+          "quantity": 0.0,
+          "uom": "mcg"
+        },
+        {
+          "nutritionName": "Insoluble Fiber",
+          "isOrContains": 0,
+          "quantity": 0.0,
+          "uom": "g"
+        },
+        {
+          "nutritionName": "Iodine",
+          "isOrContains": 0,
+          "percentage": 0.0,
+          "quantity": 0.0,
+          "uom": "mcg"
+        },
+        {
+          "nutritionName": "Magnesium",
+          "isOrContains": 0,
+          "percentage": 0.0,
+          "quantity": 0.0,
+          "uom": "mg"
+        },
+        {
+          "nutritionName": "Manganese",
+          "isOrContains": 0,
+          "percentage": 0.0,
+          "quantity": 0.0,
+          "uom": "mg"
+        },
+        {
+          "nutritionName": "Molybdenum",
+          "isOrContains": 0,
+          "quantity": 0.0,
+          "uom": "mcg"
+        },
+        {
+          "nutritionName": "Monounsaturated Fat",
+          "isOrContains": 0,
+          "percentage": 0.0,
+          "quantity": 0.0,
+          "uom": "g"
+        },
+        {
+          "nutritionName": "Niacin",
+          "isOrContains": 0,
+          "percentage": 0.0,
+          "quantity": 0.0,
+          "uom": "mg"
+        },
+        {
+          "nutritionName": "Omega 6 Fatty Acids",
+          "isOrContains": 0,
+          "quantity": 0.0,
+          "uom": "g"
+        },
+        {
+          "nutritionName": "Omega3 Fatty Acid",
+          "isOrContains": 0,
+          "quantity": 0.0,
+          "uom": "g"
+        },
+        {
+          "nutritionName": "Other Carbohydrates",
+          "isOrContains": 0,
+          "quantity": 0.0,
+          "uom": "g"
+        },
+        {
+          "nutritionName": "Pantothenic",
+          "isOrContains": 0,
+          "percentage": 0.0,
+          "quantity": 0.0,
+          "uom": "mg"
+        },
+        {
+          "nutritionName": "Polyunsaturated Fat",
+          "isOrContains": 0,
+          "percentage": 0.0,
+          "quantity": 0.0,
+          "uom": "g"
+        },
+        {
+          "nutritionName": "Riboflavin B2",
+          "isOrContains": 0,
+          "percentage": 0.0,
+          "quantity": 0.0,
+          "uom": "mg"
+        },
+        {
+          "nutritionName": "Selenium",
+          "isOrContains": 0,
+          "percentage": 0.0,
+          "quantity": 0.0,
+          "uom": "mcg"
+        },
+        {
+          "nutritionName": "Soluble Fiber",
+          "isOrContains": 0,
+          "quantity": 0.0,
+          "uom": "g"
+        },
+        {
+          "nutritionName": "Thiamin",
+          "isOrContains": 0,
+          "percentage": 0.0,
+          "quantity": 0.0,
+          "uom": "mg"
+        },
+        {
+          "nutritionName": "Vitamin B12",
+          "isOrContains": 0,
+          "percentage": 0.0,
+          "quantity": 0.0,
+          "uom": "mcg"
+        },
+        {
+          "nutritionName": "Vitamin B6",
+          "isOrContains": 0,
+          "percentage": 0.0,
+          "quantity": 0.0,
+          "uom": "mg"
+        },
+        {
+          "nutritionName": "Vitamin E",
+          "isOrContains": 0,
+          "percentage": 0.0,
+          "quantity": 0.0,
+          "uom": "mg"
+        },
+        {
+          "nutritionName": "Vitamin K",
+          "isOrContains": 0,
+          "percentage": 0.0,
+          "quantity": 0.0,
+          "uom": "mcg"
+        },
+        {
+          "nutritionName": "Zinc",
+          "isOrContains": 0,
+          "percentage": 0.0,
+          "quantity": 0.0,
+          "uom": "mg"
+        },
+        {
+          "nutritionName": "Folate",
+          "isOrContains": 0,
+          "percentage": 0.0,
+          "quantity": 0.0,
+          "uom": "mcg"
+        },
+        {
+          "nutritionName": "MPhosphorous",
+          "isOrContains": 0,
+          "percentage": 0.0,
+          "quantity": 0.0,
+          "uom": "g"
+        }
+      ],
+      "servingDetails": {
+        "addedItem": "",
+        "servingSizeText": "12",
+        "servingSizeUOM": "OZA",
+        "servingsPerContainer": "3"
+      }
+    }
+  ],
+  "enrichmentDesc": "Sprite Bottle, 1 Liter",
+  "allergens": [
+    { "id": "277", "name": "Does not contain Fish", "rank": null },
+    { "id": "284", "name": "Does not contain Egg", "rank": null },
+    { "id": "271", "name": "Does not contain Wheat", "rank": null },
+    { "id": "285", "name": "Does not contain Soy", "rank": null },
+    {
+      "id": "286",
+      "name": "Does not contain Crustacean Shellfish",
+      "rank": null
+    },
+    { "id": "288", "name": "Does not contain Tree Nuts", "rank": null },
+    { "id": "278", "name": "Does not contain Milk", "rank": null },
+    { "id": "275", "name": "Does not contain Peanuts", "rank": null }
+  ],
+  "healthClaims": [
+    { "id": "4", "name": "Vegetarian", "rank": null },
+    { "id": "18", "name": "Fat Free", "rank": null },
+    { "id": "2", "name": "Vegan", "rank": null },
+    { "id": "23", "name": "Pescatarian", "rank": null }
+  ],
+  "primaryUpcCorp": "0004900002319",
+  "primaryRog": "SSEA",
+  "name": "Sprite Soda Pop Lemon Lime - 1 Liter",
+  "brand": "Sprite",
+  "salesRank": 99999,
+  "isArProduct": true,
+  "status": "active",
+  "department": {
+    "departmentCode": 5,
+    "departmentId": "1_5",
+    "image": "/images/cfh/5.jpg",
+    "name": "Beverages",
+    "urlName": "Beverages"
+  },
+  "shelf": {
+    "image": "/images/cfh/5_7_4.jpg",
+    "name": "Lemon Lime & Citrus Soda",
+    "shelfCode": 4,
+    "shelfId": "1_5_7_4",
+    "urlName": "Lemon-Lime-Citrus-Soda"
+  },
+  "aisle": {
+    "aisleCode": 7,
+    "aisleId": "1_5_7",
+    "image": "/images/cfh/5_7.jpg",
+    "name": "Soft Drinks",
+    "urlName": "Soft-Drinks"
+  },
+  "isHhcProduct": false,
+  "deptOverrideCd": "0",
+  "restrictedValue": 0,
+  "marketingContent": [
+    {
+      "vendorName": "salsify",
+      "featureBenefitBullets": [
+        "The OG Sprite, lemon-lime flavored soda for bold personalities",
+        "100% natural flavors",
+        "Caffeine-free",
+        "33.8 FL OZ per bottle",
+        "Crisp, cool, mouthwatering citrus taste"
+      ],
+      "marketCopy": "With its cool, satisfying, and refreshing citrus taste, Sprite is the soda that ignites your senses to keep you on your toes. \n  \nAs the OG, the head honcho in the lemon-lime flavored soft drink biz, Sprite was, is, and will always be an innovator. An inventor. Keeping things interesting for you, no matter how you drink it. It\u2019s a big challenge, but one that Sprite\u2019s not afraid of\u2014because innovators aren\u2019t afraid of anything. \n  \nEvery sip of Sprite is refreshing, so it should come as no surprise why Sprite and lemon-lime have become synonymous. As the awe-inspiring trendsetter of the iconic flavor, Sprite never fails to deliver exactly what it promises, every single time. After all, it\u2019s been doing that for 50 years already.\n  \nFor the people who love a little more zing, there\u2019s a variety of different Sprite flavors, like Cherry and Tropical Mix, as well as zero calorie and zero sugar options. And while the original Sprite is its own brand of perfection, its different flavor options offer a brand-new soda experience. \n   \nSprite delivers intense, crisp citrus taste in every single sip. So when it comes to the ultimate lemon-lime flavored drink, there\u2019s only one place to turn\u2014the flavor that started it all."
+    }
+  ],
+  "smartLabelLink": null,
+  "recycleInfo": null,
+  "displayType": -1,
+  "serviceDeptNum": null,
+  "nutritionGroups": {
+    "nutritionContent": [{ "id": "18", "name": "Fat Free" }],
+    "diet": [
+      { "id": "4", "name": "Vegetarian" },
+      { "id": "2", "name": "Vegan" },
+      { "id": "23", "name": "Pescatarian" }
+    ],
+    "dietaryRestriction": []
+  },
+  "ingredientComponents": {
+    "foodGroupPerc": [
+      { "key": "grains", "value": 0.0 },
+      { "key": "fruit", "value": 0.0 },
+      { "key": "vegetables", "value": 0.0 },
+      { "key": "dairy", "value": 0.0 },
+      { "key": "protein", "value": 0.0 },
+      { "key": "discretionary", "value": 1.0 },
+      { "key": "ignore", "value": 0.0 }
+    ],
+    "foodGroupServings": [
+      { "key": "grains", "value": 0.0 },
+      { "key": "fruit", "value": 0.0 },
+      { "key": "vegetables", "value": 0.0 },
+      { "key": "dairy", "value": 0.0 },
+      { "key": "protein", "value": 0.0 }
+    ],
+    "primaryFoodGroup": "discretionary"
+  },
+  "readyMeals": null,
+  "isSingleFormula": null,
+  "ownBrandFlag": false,
+  "sacTags": null,
+  "isProductTrackingDisabled": null,
+  "dynamicAttributes": { "Package Size": "1 Liter", "Flavor": "Lemon Lime" },
+  "healthScore": 1.0,
+  "healthScoreWeight": 0.78
+}

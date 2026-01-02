@@ -1,0 +1,465 @@
+{
+  "_id": "108010020",
+  "createdDtm": "2021-04-19 23:39:58.126000",
+  "modifiedDtm": "2025-03-18 17:37:33.331000",
+  "bpnId": "108010020",
+  "dimension": { "width": 7.9, "depth": 5.24, "height": 8.83 },
+  "detailDescription": {
+    "directions": "Ready to drink",
+    "ingredients": "Carbonated Water, Caramel Color, Aspartame, Phosphoric Acid, Potassium Benzoate (To Protect Taste), Natural Flavors, Citric Acid, Caffeine.",
+    "productDetails": null,
+    "indications": null,
+    "warnings": null,
+    "drugInteractions": null,
+    "vintage": null,
+    "category": "Soda & other soft ready-to-drink beverages",
+    "hasNutrition": null,
+    "itemSize": "101",
+    "itemMeasure": "fl. oz",
+    "weight": "7.02",
+    "extentedSize": null,
+    "valuePreparedCount": null
+  },
+  "manufactureInfo": {
+    "address": "",
+    "copyright": "",
+    "manufacture": "The Coca-Cola Company",
+    "phone": ""
+  },
+  "nutritionPanels": [
+    {
+      "nutritionFacts": [
+        {
+          "nutritionName": "Calories",
+          "isOrContains": 0,
+          "quantity": 0.0,
+          "uom": "kcal"
+        },
+        {
+          "nutritionName": "Calories From Fat",
+          "isOrContains": 0,
+          "quantity": 0.0,
+          "uom": "kcal"
+        },
+        {
+          "nutritionName": "Total Fat",
+          "isOrContains": 0,
+          "percentage": 0.0,
+          "quantity": 0.0,
+          "uom": "g"
+        },
+        {
+          "nutritionName": "Saturated Fat",
+          "isOrContains": 0,
+          "percentage": 0.0,
+          "quantity": 0.0,
+          "uom": "g"
+        },
+        {
+          "nutritionName": "Trans Fat",
+          "isOrContains": 0,
+          "percentage": 0.0,
+          "quantity": 0.0,
+          "uom": "g"
+        },
+        {
+          "nutritionName": "Cholesterol",
+          "isOrContains": 0,
+          "percentage": 0.0,
+          "quantity": 0.0,
+          "uom": "mg"
+        },
+        {
+          "nutritionName": "Sodium",
+          "isOrContains": 0,
+          "percentage": 3.0,
+          "quantity": 60.0,
+          "uom": "mg"
+        },
+        {
+          "nutritionName": "Total Carbohydrate",
+          "isOrContains": 0,
+          "percentage": 0.0,
+          "quantity": 0.0,
+          "uom": "g"
+        },
+        {
+          "nutritionName": "Dietary Fiber",
+          "isOrContains": 0,
+          "percentage": 0.0,
+          "quantity": 0.0,
+          "uom": "g"
+        },
+        {
+          "nutritionName": "Total Sugars",
+          "isOrContains": 0,
+          "percentage": 0.0,
+          "quantity": 0.0,
+          "uom": "g"
+        },
+        {
+          "nutritionName": "Added Sugars",
+          "isOrContains": 0,
+          "percentage": 0.0,
+          "quantity": 0.0,
+          "uom": "g"
+        },
+        {
+          "nutritionName": "Protein",
+          "isOrContains": 0,
+          "percentage": 0.0,
+          "quantity": 0.0,
+          "uom": "g"
+        },
+        {
+          "nutritionName": "Vitamin A",
+          "isOrContains": 0,
+          "percentage": 0.0,
+          "quantity": 0.0,
+          "uom": "mcg"
+        },
+        {
+          "nutritionName": "Vitamin C",
+          "isOrContains": 0,
+          "percentage": 0.0,
+          "quantity": 0.0,
+          "uom": "mcg"
+        },
+        {
+          "nutritionName": "Vitamin D",
+          "isOrContains": 0,
+          "percentage": 0.0,
+          "quantity": 0.0,
+          "uom": "mcg"
+        },
+        {
+          "nutritionName": "Calcium",
+          "isOrContains": 0,
+          "percentage": 0.0,
+          "quantity": 0.0,
+          "uom": "mg"
+        },
+        {
+          "nutritionName": "Iron",
+          "isOrContains": 0,
+          "percentage": 0.0,
+          "quantity": 0.0,
+          "uom": "mg"
+        },
+        {
+          "nutritionName": "Potassium",
+          "isOrContains": 0,
+          "percentage": 0.0,
+          "quantity": 0.0,
+          "uom": "mg"
+        },
+        {
+          "nutritionName": "Ash",
+          "isOrContains": 0,
+          "quantity": 0.0,
+          "uom": "g"
+        },
+        {
+          "nutritionName": "Biotin",
+          "isOrContains": 0,
+          "quantity": 0.0,
+          "uom": "mcg"
+        },
+        {
+          "nutritionName": "Caffeine",
+          "isOrContains": 0,
+          "quantity": 0.0,
+          "uom": "mg"
+        },
+        {
+          "nutritionName": "Chloride",
+          "isOrContains": 0,
+          "quantity": 0.0,
+          "uom": "mg"
+        },
+        {
+          "nutritionName": "Chromium",
+          "isOrContains": 0,
+          "quantity": 0.0,
+          "uom": "mcg"
+        },
+        {
+          "nutritionName": "Copper",
+          "isOrContains": 0,
+          "quantity": 0.0,
+          "uom": "mg"
+        },
+        {
+          "nutritionName": "Folate",
+          "isOrContains": 0,
+          "quantity": 0.0,
+          "uom": "mcg"
+        },
+        {
+          "nutritionName": "Insoluble Fiber",
+          "isOrContains": 0,
+          "quantity": 0.0,
+          "uom": "g"
+        },
+        {
+          "nutritionName": "Iodine",
+          "isOrContains": 0,
+          "quantity": 0.0,
+          "uom": "mcg"
+        },
+        {
+          "nutritionName": "Magnesium",
+          "isOrContains": 0,
+          "quantity": 0.0,
+          "uom": "mg"
+        },
+        {
+          "nutritionName": "Manganese",
+          "isOrContains": 0,
+          "quantity": 0.0,
+          "uom": "mg"
+        },
+        {
+          "nutritionName": "Molybdenum",
+          "isOrContains": 0,
+          "quantity": 0.0,
+          "uom": "mcg"
+        },
+        {
+          "nutritionName": "Monounsaturated Fat",
+          "isOrContains": 0,
+          "quantity": 0.0,
+          "uom": "g"
+        },
+        {
+          "nutritionName": "Niacin",
+          "isOrContains": 0,
+          "quantity": 0.0,
+          "uom": "mg"
+        },
+        {
+          "nutritionName": "Omega 6 Fatty Acids",
+          "isOrContains": 0,
+          "quantity": 0.0,
+          "uom": "g"
+        },
+        {
+          "nutritionName": "Omega3 Fatty Acid",
+          "isOrContains": 0,
+          "quantity": 0.0,
+          "uom": "g"
+        },
+        {
+          "nutritionName": "Other Carbohydrates",
+          "isOrContains": 0,
+          "quantity": 0.0,
+          "uom": "g"
+        },
+        {
+          "nutritionName": "Pantothenic",
+          "isOrContains": 0,
+          "quantity": 0.0,
+          "uom": "mg"
+        },
+        {
+          "nutritionName": "Polyunsaturated Fat",
+          "isOrContains": 0,
+          "quantity": 0.0,
+          "uom": "g"
+        },
+        {
+          "nutritionName": "Riboflavin B2",
+          "isOrContains": 0,
+          "quantity": 0.0,
+          "uom": "mg"
+        },
+        {
+          "nutritionName": "Selenium",
+          "isOrContains": 0,
+          "quantity": 0.0,
+          "uom": "mcg"
+        },
+        {
+          "nutritionName": "Soluble Fiber",
+          "isOrContains": 0,
+          "quantity": 0.0,
+          "uom": "g"
+        },
+        {
+          "nutritionName": "Thiamin",
+          "isOrContains": 0,
+          "quantity": 0.0,
+          "uom": "mg"
+        },
+        {
+          "nutritionName": "Vitamin B12",
+          "isOrContains": 0,
+          "quantity": 0.0,
+          "uom": "mcg"
+        },
+        {
+          "nutritionName": "Vitamin B6",
+          "isOrContains": 0,
+          "quantity": 0.0,
+          "uom": "mg"
+        },
+        {
+          "nutritionName": "Vitamin E",
+          "isOrContains": 0,
+          "quantity": 0.0,
+          "uom": "mg"
+        },
+        {
+          "nutritionName": "Vitamin K",
+          "isOrContains": 0,
+          "quantity": 0.0,
+          "uom": "mcg"
+        },
+        {
+          "nutritionName": "Zinc",
+          "isOrContains": 0,
+          "quantity": 0.0,
+          "uom": "mg"
+        }
+      ],
+      "servingDetails": {
+        "addedItem": "",
+        "servingSizeText": "16.9",
+        "servingSizeUOM": "ONZ",
+        "servingsPerContainer": "6"
+      }
+    }
+  ],
+  "enrichmentDesc": "Diet Coke Bottles, 16.9 fl oz, 6 Pack",
+  "allergens": [
+    { "id": "277", "name": "Does not contain Fish", "rank": null },
+    { "id": "284", "name": "Does not contain Egg", "rank": null },
+    { "id": "271", "name": "Does not contain Wheat", "rank": null },
+    { "id": "285", "name": "Does not contain Soy", "rank": null },
+    {
+      "id": "286",
+      "name": "Does not contain Crustacean Shellfish",
+      "rank": null
+    },
+    { "id": "288", "name": "Does not contain Tree Nuts", "rank": null },
+    { "id": "278", "name": "Does not contain Milk", "rank": null },
+    { "id": "275", "name": "Does not contain Peanuts", "rank": null }
+  ],
+  "healthClaims": [
+    { "id": "51", "name": "No Added Sugars", "rank": null },
+    { "id": "4", "name": "Vegetarian", "rank": null },
+    { "id": "5", "name": "Keto-friendly", "rank": null },
+    { "id": "9", "name": "No High Fructose Corn Syrup", "rank": null },
+    { "id": "11", "name": "Sodium-conscious", "rank": null },
+    { "id": "18", "name": "Fat Free", "rank": null },
+    { "id": "7", "name": "Sugar-conscious", "rank": null },
+    { "id": "22", "name": "Carb-conscious", "rank": null },
+    { "id": "2", "name": "Vegan", "rank": null },
+    { "id": "23", "name": "Pescatarian", "rank": null }
+  ],
+  "primaryUpcCorp": "0004900002469",
+  "primaryRog": "SPHO",
+  "name": "Diet Coke Soda Pop Cola 6 Count - 16.9 Fl. Oz.",
+  "brand": "Diet Coke",
+  "salesRank": 223,
+  "isArProduct": true,
+  "status": "active",
+  "department": {
+    "departmentCode": 5,
+    "departmentId": "1_5",
+    "image": "/images/cfh/5.jpg",
+    "name": "Beverages",
+    "urlName": "Beverages"
+  },
+  "shelf": {
+    "image": "/images/cfh/5_7_1.jpg",
+    "name": "Cola",
+    "shelfCode": 1,
+    "shelfId": "1_5_7_1",
+    "urlName": "Cola"
+  },
+  "aisle": {
+    "aisleCode": 7,
+    "aisleId": "1_5_7",
+    "image": "/images/cfh/5_7.jpg",
+    "name": "Soft Drinks",
+    "urlName": "Soft-Drinks"
+  },
+  "isHhcProduct": false,
+  "deptOverrideCd": "0",
+  "restrictedValue": 0,
+  "marketingContent": [
+    {
+      "vendorName": "salsify",
+      "featureBenefitBullets": [
+        "Crisp and refreshing soda with no sugar and no calories to refresh your day",
+        "Enjoy the great taste of Diet Coke, a diet cola that has no sugar and no calories.",
+        "Take a Diet Coke break with this refreshing, no-calorie soft drink.",
+        "64.8 mg of caffeine in each 16.9 fl oz serving",
+        "6 pack, 16.9 fl oz bottles of Diet Coke"
+      ],
+      "marketCopy": "Enjoy a break with the one and only Diet Coke. This diet soda is your perfect no-sugar, no-calorie companion. With its bold taste, Diet Coke is an everyday hero when it comes to refreshing your day.\n\nDiet Coke's distinctive taste comes from its blend of flavors and the fizz of carbonation, all without the calories. Whether you're looking for some me time or just want to brighten your day, this everyday go-to is the perfect companion. \n\nEvery sip of Diet Coke delivers the same great taste that's delighted fans for years. A trusted soft drink for over four decades, Diet Coke helps you make the most of any occasion. With each sip of its bold taste, you'll find your \"ahh\" moment. So when you want a sugar-free soda that doesn't sacrifice on taste, open happiness and reach for a Diet Coke."
+    }
+  ],
+  "smartLabelLink": null,
+  "recycleInfo": null,
+  "displayType": -1,
+  "serviceDeptNum": null,
+  "nutritionGroups": {
+    "nutritionContent": [
+      { "id": "51", "name": "No Added Sugars" },
+      { "id": "5", "name": "Keto-friendly" },
+      { "id": "9", "name": "No High Fructose Corn Syrup" },
+      { "id": "11", "name": "Sodium-conscious" },
+      { "id": "18", "name": "Fat Free" },
+      { "id": "7", "name": "Sugar-conscious" },
+      { "id": "22", "name": "Carb-conscious" }
+    ],
+    "diet": [
+      { "id": "4", "name": "Vegetarian" },
+      { "id": "2", "name": "Vegan" },
+      { "id": "23", "name": "Pescatarian" }
+    ],
+    "dietaryRestriction": []
+  },
+  "ingredientComponents": {
+    "foodGroupPerc": [
+      { "key": "grains", "value": 0.0 },
+      { "key": "fruit", "value": 0.0 },
+      { "key": "vegetables", "value": 0.0 },
+      { "key": "dairy", "value": 0.0 },
+      { "key": "protein", "value": 0.0 },
+      { "key": "discretionary", "value": 1.0 },
+      { "key": "ignore", "value": 0.0 }
+    ],
+    "foodGroupServings": [
+      { "key": "grains", "value": 0.0 },
+      { "key": "fruit", "value": 0.0 },
+      { "key": "vegetables", "value": 0.0 },
+      { "key": "dairy", "value": 0.0 },
+      { "key": "protein", "value": 0.0 }
+    ],
+    "primaryFoodGroup": "discretionary"
+  },
+  "readyMeals": null,
+  "isSingleFormula": null,
+  "sacTags": {
+    "sacNonSearchableAttribute": [
+      { "tag": "[IMPORT] Movie_Soda p9p14my9 1_5_7 [UPDATED]" },
+      { "tag": "[IMPORT] Boo bundle p9p035ld 1_5" },
+      { "tag": "Beverages - soup and sammie bundles" },
+      { "tag": "refreshments - memorial day bundle" },
+      { "tag": "More soda - Root Beer Float Bundle" }
+    ],
+    "sacSearchableAttribute": []
+  },
+  "ownBrandFlag": false,
+  "isProductTrackingDisabled": null,
+  "dynamicAttributes": {
+    "Flavor": "Cola",
+    "Package Size": "6Pk",
+    "Package Type": "Plastic"
+  },
+  "healthScore": 34.4,
+  "healthScoreWeight": 2.21
+}

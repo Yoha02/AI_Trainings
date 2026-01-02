@@ -1,0 +1,215 @@
+{
+  "_id": "108051814",
+  "createdDtm": "2021-04-19 23:39:49.071000",
+  "modifiedDtm": "2025-03-18 17:37:17.352000",
+  "bpnId": "108051814",
+  "dimension": { "width": 10.5, "depth": 15.65, "height": 4.85 },
+  "detailDescription": {
+    "directions": null,
+    "ingredients": null,
+    "productDetails": null,
+    "indications": null,
+    "warnings": null,
+    "drugInteractions": null,
+    "vintage": null,
+    "category": "Soda & other soft ready-to-drink beverages",
+    "hasNutrition": null,
+    "itemSize": "12",
+    "itemMeasure": "cnt",
+    "weight": "19.81",
+    "extentedSize": null,
+    "valuePreparedCount": null
+  },
+  "manufactureInfo": {
+    "address": "",
+    "copyright": "",
+    "manufacture": "Dr Pepper/Seven Up, Inc",
+    "phone": ""
+  },
+  "nutritionPanels": [
+    {
+      "nutritionFacts": [
+        {
+          "nutritionName": "Total Fat",
+          "isOrContains": 0,
+          "percentage": 0.0,
+          "quantity": 0.0,
+          "uom": "g"
+        },
+        {
+          "nutritionName": "Sodium",
+          "isOrContains": 0,
+          "percentage": 5.0,
+          "quantity": 120.0,
+          "uom": "mg"
+        },
+        {
+          "nutritionName": "Total Carbohydrate",
+          "isOrContains": 0,
+          "percentage": 0.0,
+          "quantity": 0.0,
+          "uom": "g"
+        },
+        {
+          "nutritionName": "Total Sugars",
+          "isOrContains": 0,
+          "quantity": 0.0,
+          "uom": "g"
+        },
+        {
+          "nutritionName": "Added Sugars",
+          "isOrContains": 0,
+          "percentage": 0.0,
+          "quantity": 0.0,
+          "uom": "g"
+        },
+        {
+          "nutritionName": "Protein",
+          "isOrContains": 0,
+          "quantity": 0.0,
+          "uom": "g"
+        },
+        {
+          "nutritionName": "Calories",
+          "isOrContains": 0,
+          "quantity": 0.0,
+          "uom": "kcal"
+        },
+        {
+          "nutritionName": "Caffeine Free",
+          "isOrContains": 1,
+          "percentage": 0.0,
+          "quantity": 1.0
+        },
+        {
+          "nutritionName": "Sugar Free",
+          "isOrContains": 1,
+          "percentage": 0.0,
+          "quantity": 1.0
+        }
+      ],
+      "servingDetails": {
+        "addedItem": "",
+        "servingSizeText": "1",
+        "servingSizeUOM": "Can ",
+        "servingsPerContainer": "12"
+      }
+    }
+  ],
+  "enrichmentDesc": "12OZ ZSGR CAN DRY GINGER ALE CN 12P",
+  "allergens": null,
+  "healthClaims": [
+    { "id": "51", "name": "No Added Sugars", "rank": null },
+    { "id": "4", "name": "Vegetarian", "rank": null },
+    { "id": "5", "name": "Keto-friendly", "rank": null },
+    { "id": "9", "name": "No High Fructose Corn Syrup", "rank": null },
+    { "id": "7", "name": "Sugar-conscious", "rank": null },
+    { "id": "22", "name": "Carb-conscious", "rank": null },
+    { "id": "2", "name": "Vegan", "rank": null },
+    { "id": "23", "name": "Pescatarian", "rank": null }
+  ],
+  "primaryUpcCorp": "0007800014816",
+  "primaryRog": "SNCA",
+  "name": "Canada Dry Zero Sugar Ginger Ale Soda Cans - 12-12 Fl. Oz.",
+  "brand": "Canada Dry",
+  "salesRank": 446,
+  "isArProduct": true,
+  "status": "active",
+  "department": {
+    "departmentCode": 5,
+    "departmentId": "1_5",
+    "image": "/images/cfh/5.jpg",
+    "name": "Beverages",
+    "urlName": "Beverages"
+  },
+  "shelf": {
+    "image": "/images/cfh/5_7_3.jpg",
+    "name": "Ginger Ale",
+    "shelfCode": 3,
+    "shelfId": "1_5_7_3",
+    "urlName": "Ginger-Ale"
+  },
+  "aisle": {
+    "aisleCode": 7,
+    "aisleId": "1_5_7",
+    "image": "/images/cfh/5_7.jpg",
+    "name": "Soft Drinks",
+    "urlName": "Soft-Drinks"
+  },
+  "isHhcProduct": false,
+  "deptOverrideCd": "0",
+  "restrictedValue": 0,
+  "marketingContent": [
+    {
+      "vendorName": "salsify",
+      "featureBenefitBullets": [
+        "ZERO SUGAR: The great taste of Canada Dry Ginger Ale Zero Sugar is also caffeine-free so you can enjoy it guilt-free any time of day",
+        "RELAXING & REFRESHING: Sip into your comfort zone with Canada Dry Zero Sugar",
+        "CARBONATED SODA: Carbonated soda that tickles your senses with bubbly flavor and refreshing ginger taste that satisfies your thirst every time",
+        "CAFFEINE FREE: The great taste of Canada Dry Ginger Ale without caffeine so you can enjoy it any time of day",
+        "COCKTAIL MIXER: Canada Dry Ginger Ale Zero Sugar is the perfect mixer for delicious, modern cocktails or to enjoy all by itself"
+      ],
+      "marketCopy": "Sip into your comfort zone with the crisp goodness of Canada Dry Zero Sugar Ginger Ale. There comes a time when we all need a break from the treadmill of life, and there\u2019s only one thing to do during those moments when we need an escape from stresses and obligations... Grab an ice-cold can of Canada Dry Ginger Ale, and sip into your comfort zone. Whether that means you\u2019re sitting on your front porch swing, listening to your favorite podcast or just taking a quiet moment for yourself, Canada Dry Ginger Ale Zero Sugar is the perfect ginger ale to make it even better. And it's caffeine free! Once transported to the comfort zone, you can enjoy the refreshing ginger taste made with only high quality ingredients, soothing you with each comforting sip. For over 100 years, Canada Dry has been creating quality carbonated beverages and mixers that can be enjoyed at any time of day. Never skimping on quality, Canada Dry Ginger Ale Zero Sugar offers a refreshing ginger taste that's caffeine free and contains zero calories. Enhance your favorite cocktails with a sparkling splash of Canada Dry Zero Sugar or enjoy by itself for crisp, clean refreshment. So grab an ice-cold can of Canada Dry Zero Sugar, sink into your favorite chair, and sip into the comfort zone."
+    }
+  ],
+  "smartLabelLink": null,
+  "recycleInfo": null,
+  "displayType": -1,
+  "serviceDeptNum": null,
+  "nutritionGroups": {
+    "nutritionContent": [
+      { "id": "51", "name": "No Added Sugars" },
+      { "id": "5", "name": "Keto-friendly" },
+      { "id": "9", "name": "No High Fructose Corn Syrup" },
+      { "id": "7", "name": "Sugar-conscious" },
+      { "id": "22", "name": "Carb-conscious" }
+    ],
+    "diet": [
+      { "id": "4", "name": "Vegetarian" },
+      { "id": "2", "name": "Vegan" },
+      { "id": "23", "name": "Pescatarian" }
+    ],
+    "dietaryRestriction": []
+  },
+  "ingredientComponents": {
+    "foodGroupPerc": [
+      { "key": "grains", "value": 0.0 },
+      { "key": "fruit", "value": 0.0 },
+      { "key": "vegetables", "value": 0.0 },
+      { "key": "dairy", "value": 0.0 },
+      { "key": "protein", "value": 0.0 },
+      { "key": "discretionary", "value": 1.0 },
+      { "key": "ignore", "value": 0.0 }
+    ],
+    "foodGroupServings": [
+      { "key": "grains", "value": 0.0 },
+      { "key": "fruit", "value": 0.0 },
+      { "key": "vegetables", "value": 0.0 },
+      { "key": "dairy", "value": 0.0 },
+      { "key": "protein", "value": 0.0 }
+    ],
+    "primaryFoodGroup": "discretionary"
+  },
+  "readyMeals": null,
+  "isSingleFormula": null,
+  "ownBrandFlag": false,
+  "sacTags": {
+    "sacNonSearchableAttribute": [
+      { "tag": "[IMPORT] Movie_Soda p9p14my9 1_5_7 [UPDATED]" },
+      { "tag": "[IMPORT] Boo bundle p9p035ld 1_5" },
+      { "tag": "Beverages - Spicy Snacks Bundle" },
+      { "tag": "Beverages - soup and sammie bundles" },
+      { "tag": "refreshments - memorial day bundle" },
+      { "tag": "extras - school-virus-pkg" }
+    ],
+    "sacSearchableAttribute": []
+  },
+  "isProductTrackingDisabled": null,
+  "dynamicAttributes": {
+    "Flavor": "Ginger Ale",
+    "Package Type": "Can",
+    "Package Size": "12-12 Fl. Oz."
+  },
+  "healthScore": 33.4,
+  "healthScoreWeight": 2.71
+}

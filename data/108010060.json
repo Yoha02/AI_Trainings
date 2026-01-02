@@ -1,0 +1,210 @@
+{
+  "_id": "108010060",
+  "createdDtm": "2021-04-19 23:40:09.548000",
+  "modifiedDtm": "2025-03-18 17:37:37.598000",
+  "bpnId": "108010060",
+  "dimension": { "width": 7.9, "depth": 5.24, "height": 8.83 },
+  "detailDescription": {
+    "directions": "Ready to drink",
+    "ingredients": "Carbonated Water, Caramel Color, Aspartame, Phosphoric Acid, Potassium Benzoate (To Protect Taste), Natural Flavors, Citric Acid.",
+    "productDetails": null,
+    "indications": null,
+    "warnings": null,
+    "drugInteractions": null,
+    "vintage": null,
+    "category": "Soda & other soft ready-to-drink beverages",
+    "hasNutrition": null,
+    "itemSize": "101",
+    "itemMeasure": "fl. oz",
+    "weight": "7.02",
+    "extentedSize": null,
+    "valuePreparedCount": null
+  },
+  "manufactureInfo": {
+    "address": "",
+    "copyright": "",
+    "manufacture": "The Coca-Cola Company",
+    "phone": ""
+  },
+  "nutritionPanels": [
+    {
+      "nutritionFacts": [
+        {
+          "nutritionName": "Total Fat",
+          "isOrContains": 0,
+          "percentage": 0.0,
+          "quantity": 0.0,
+          "uom": "g"
+        },
+        {
+          "nutritionName": "Sodium",
+          "isOrContains": 0,
+          "percentage": 2.0,
+          "quantity": 55.0,
+          "uom": "mg"
+        },
+        {
+          "nutritionName": "Total Carbohydrate",
+          "isOrContains": 0,
+          "percentage": 0.0,
+          "quantity": 0.0,
+          "uom": "g"
+        },
+        {
+          "nutritionName": "Total Sugars",
+          "isOrContains": 0,
+          "quantity": 0.0,
+          "uom": "g"
+        },
+        {
+          "nutritionName": "Added Sugars",
+          "isOrContains": 0,
+          "percentage": 0.0,
+          "quantity": 0.0,
+          "uom": "g"
+        },
+        {
+          "nutritionName": "Protein",
+          "isOrContains": 0,
+          "quantity": 0.0,
+          "uom": "g"
+        },
+        {
+          "nutritionName": "Calories",
+          "isOrContains": 0,
+          "quantity": 0.0,
+          "uom": "kcal"
+        }
+      ],
+      "servingDetails": {
+        "addedItem": "",
+        "servingSizeText": "1",
+        "servingSizeUOM": "bottle",
+        "servingsPerContainer": ""
+      }
+    }
+  ],
+  "enrichmentDesc": "Diet Coke Caffeine-Free Bottles, 16.9 fl oz, 6 Pack",
+  "allergens": [
+    { "id": "277", "name": "Does not contain Fish", "rank": null },
+    { "id": "284", "name": "Does not contain Egg", "rank": null },
+    { "id": "271", "name": "Does not contain Wheat", "rank": null },
+    { "id": "285", "name": "Does not contain Soy", "rank": null },
+    {
+      "id": "286",
+      "name": "Does not contain Crustacean Shellfish",
+      "rank": null
+    },
+    { "id": "288", "name": "Does not contain Tree Nuts", "rank": null },
+    { "id": "278", "name": "Does not contain Milk", "rank": null },
+    { "id": "275", "name": "Does not contain Peanuts", "rank": null }
+  ],
+  "healthClaims": [
+    { "id": "51", "name": "No Added Sugars", "rank": null },
+    { "id": "4", "name": "Vegetarian", "rank": null },
+    { "id": "5", "name": "Keto-friendly", "rank": null },
+    { "id": "9", "name": "No High Fructose Corn Syrup", "rank": null },
+    { "id": "18", "name": "Fat Free", "rank": null },
+    { "id": "7", "name": "Sugar-conscious", "rank": null },
+    { "id": "22", "name": "Carb-conscious", "rank": null },
+    { "id": "2", "name": "Vegan", "rank": null },
+    { "id": "23", "name": "Pescatarian", "rank": null }
+  ],
+  "primaryUpcCorp": "0004900002542",
+  "primaryRog": "SPHO",
+  "name": "Diet Coke Soda Pop Cola Caffeine Free - 6-16.9 Fl. Oz.",
+  "brand": "Diet Coke",
+  "salesRank": 2075,
+  "isArProduct": true,
+  "status": "active",
+  "department": {
+    "departmentCode": 5,
+    "departmentId": "1_5",
+    "image": "/images/cfh/5.jpg",
+    "name": "Beverages",
+    "urlName": "Beverages"
+  },
+  "shelf": {
+    "image": "/images/cfh/5_7_1.jpg",
+    "name": "Cola",
+    "shelfCode": 1,
+    "shelfId": "1_5_7_1",
+    "urlName": "Cola"
+  },
+  "aisle": {
+    "aisleCode": 7,
+    "aisleId": "1_5_7",
+    "image": "/images/cfh/5_7.jpg",
+    "name": "Soft Drinks",
+    "urlName": "Soft-Drinks"
+  },
+  "isHhcProduct": false,
+  "deptOverrideCd": "0",
+  "restrictedValue": 0,
+  "marketingContent": [
+    {
+      "vendorName": "salsify",
+      "featureBenefitBullets": [
+        "Crisp and refreshing soda with no sugar and no calories to refresh your day",
+        "Enjoy the great taste of Diet Coke, a diet cola that has no sugar and no calories.",
+        "Take a Diet Coke break with this refreshing, no-calorie soft drink.",
+        "Caffeine free",
+        "16.9 fl oz per bottle of Diet Coke"
+      ],
+      "marketCopy": "Crisp, cold and reliable, this is your everyday wing (wo)man\u2014Diet Coke. Your deliciously fizzy go-to companion. This is the kind of sugar-free soda that you want throughout your day. Whether you\u2019re looking for a refreshing start to your day or to refresh your afternoon, you'll never be lost with a Diet Coke.\n  \nDiet Coke always hits the spot. Alongside meals, celebrations or just your friends in your backyard, at any time of day. In fact, it\u2019s basically a friend itself. Because it\u2019s the best kind of familiar, and something you never have to second guess. You trust it, and it\u2019s always there for you whenever you want it. \n \nWith no caffeine added, Diet Coke Caffeine Free has a crisp, cold taste that gets you excited. And if you\u2019re looking to delight your taste buds even more, there\u2019s a host of different Diet Coke flavors to satisfy your needs. Really, it\u2019s the diet cola you know you can turn to, no matter what you\u2019re looking for. \n \nSo when you want a diet soda, think Diet Coke. Because Diet Coke is an original, just like you. Oh yeah, and it\u2019s incredibly refreshing. Always."
+    }
+  ],
+  "smartLabelLink": null,
+  "recycleInfo": null,
+  "displayType": -1,
+  "serviceDeptNum": null,
+  "nutritionGroups": {
+    "nutritionContent": [
+      { "id": "51", "name": "No Added Sugars" },
+      { "id": "5", "name": "Keto-friendly" },
+      { "id": "9", "name": "No High Fructose Corn Syrup" },
+      { "id": "18", "name": "Fat Free" },
+      { "id": "7", "name": "Sugar-conscious" },
+      { "id": "22", "name": "Carb-conscious" }
+    ],
+    "diet": [
+      { "id": "4", "name": "Vegetarian" },
+      { "id": "2", "name": "Vegan" },
+      { "id": "23", "name": "Pescatarian" }
+    ],
+    "dietaryRestriction": []
+  },
+  "ingredientComponents": {
+    "foodGroupPerc": [
+      { "key": "grains", "value": 0.0 },
+      { "key": "fruit", "value": 0.0 },
+      { "key": "vegetables", "value": 0.0 },
+      { "key": "dairy", "value": 0.0 },
+      { "key": "protein", "value": 0.0 },
+      { "key": "discretionary", "value": 1.0 },
+      { "key": "ignore", "value": 0.0 }
+    ],
+    "foodGroupServings": [
+      { "key": "grains", "value": 0.0 },
+      { "key": "fruit", "value": 0.0 },
+      { "key": "vegetables", "value": 0.0 },
+      { "key": "dairy", "value": 0.0 },
+      { "key": "protein", "value": 0.0 }
+    ],
+    "primaryFoodGroup": "discretionary"
+  },
+  "readyMeals": null,
+  "isSingleFormula": null,
+  "sacTags": {
+    "sacNonSearchableAttribute": [
+      { "tag": "[IMPORT] Movie_Soda p9p14my9 1_5_7 [UPDATED]" }
+    ],
+    "sacSearchableAttribute": []
+  },
+  "ownBrandFlag": false,
+  "isBulkUPCVariant": false,
+  "isProductTrackingDisabled": null,
+  "dynamicAttributes": { "Flavor": "Cola", "Package Size": "16.9 Fl. Oz." },
+  "healthScore": 34.5,
+  "healthScoreWeight": 2.21
+}
