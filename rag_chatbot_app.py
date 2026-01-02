@@ -14,8 +14,8 @@ from PyPDF2 import PdfReader
 # ============================================
 # CONFIGURATION (from notebook)
 # ============================================
-QDRANT_API_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhY2Nlc3MiOiJtIn0.B0RB3KPvC_HSZ4wxZnSymZKrt6DZ_za45eKViBpdvIw"
-QDRANT_URL = "https://d78b1147-cde0-4b94-aa1e-9b6b2278050c.us-east4-0.gcp.cloud.qdrant.io:6333"
+QDRANT_API_KEY = "" # ****** Replace with your API key
+QDRANT_URL = "" # ****** Replace with your URL
 MODEL_NAME = "gemini-2.0-flash-001"
 TEMPERATURE = 0.7
 TOP_P = 0.9
@@ -23,14 +23,14 @@ MAX_OUTPUT = 8192
 DEFAULT_COLLECTION = "pdfs_collection"
 
 # Initialize Google AI
-GOOGLE_API_KEY = "AIzaSyAQuY3ZgJuzUVHrDQFpAMeW7oNThvgug-U"
+GOOGLE_API_KEY = "" # ****** Replace with your API key
 if GOOGLE_API_KEY:
     genai.configure(api_key=GOOGLE_API_KEY)
 else:
     genai.configure()
 
 # Initialize Vertex AI
-PROJECT_ID = os.environ.get("GOOGLE_CLOUD_PROJECT", "agents4good")
+PROJECT_ID = os.environ.get("GOOGLE_CLOUD_PROJECT", "sample_project") # ****** Replace with your project ID
 vertexai.init(project=PROJECT_ID, location="us-central1")
 
 # ============================================
