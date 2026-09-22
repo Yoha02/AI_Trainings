@@ -49,3 +49,6 @@ Before publishing marketing content, separate supplied product facts from inferr
 ## Follow-up: source evidence in chat history
 
 The Streamlit app now retains retrieved excerpts with each answer, including after another question or interface rerun. A regression test reproduced the disappearing-source problem before the fix and passed afterward. The full local suite passed **12 tests** in the same Python 3.13 environment. This follow-up used a simulated RAG response for the interface check and made no additional live Google requests.
+## Learner verification companion
+
+The repository now includes a standard-library GitHub API companion and automatic lab checks. The local suite passed **17 tests** on Windows / Python 3.13, including dirty-checkout detection, exact-revision matching, rejecting unrelated pull-request results, preferring a newer queued run over an older success, and actionable rate-limit handling. No additional live Google requests were made. Hosted workflow results are linked from GitHub Actions and should be checked for the exact revision.

@@ -111,6 +111,16 @@ Optional hosted Qdrant: set `QDRANT_URL` and `QDRANT_API_KEY`. This sends indexe
 
 ## Validation
 
+The [AgenticWorks lab companion](docs/lab-companion.md) checks your source revision against public GitHub Actions results and provides an exact source/download link. It works before installing dependencies and needs no account or token:
+
+```sh
+python scripts/lab_status.py
+```
+
+The [automated lab checks](https://github.com/Yoha02/AI_Trainings/actions/workflows/labs.yml) run on pull requests and updates to `main`. Inspect the run for your revision to see the actual result; an edited checkout is not covered by a remote pass.
+
+To check your local files:
+
 ```sh
 python -m pytest tests -q
 ```
