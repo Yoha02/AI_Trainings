@@ -12,7 +12,7 @@ Each lab has a [reference solution](Solutions/). The notebooks share [readable b
 
 ## Start locally
 
-Basic Python knowledge is enough. Clean-environment validation used **Python 3.13 on Windows**; other platforms have not been validated in this revision. Allow several GB for dependencies, including PyTorch. The first embedding run downloads the public `all-MiniLM-L6-v2` model and caches it. A GPU is not required.
+Basic Python knowledge is enough. The initial local validation used **Python 3.13 on Windows**. Automated checks now target Windows and Ubuntu with Python 3.13; inspect the [workflow results](https://github.com/Yoha02/AI_Trainings/actions/workflows/labs.yml) for your revision. macOS has not been validated. Allow several GB for dependencies, including PyTorch. The first embedding run downloads the public `all-MiniLM-L6-v2` model and caches it. A GPU is not required.
 
 ```sh
 git clone https://github.com/Yoha02/AI_Trainings.git
@@ -110,6 +110,16 @@ Qdrant runs **in memory by default**: no account or server needed. Embeddings ru
 Optional hosted Qdrant: set `QDRANT_URL` and `QDRANT_API_KEY`. This sends indexed text, metadata, and vectors to that service. Clean up collections you create, including those left after interrupted runs. Never use someone else's collection for these exercises.
 
 ## Validation
+
+The [AgenticWorks lab companion](docs/lab-companion.md) checks your source revision against public GitHub Actions results and provides an exact source/download link. It works before installing dependencies and needs no account or token:
+
+```sh
+python scripts/lab_status.py
+```
+
+The [automated lab checks](https://github.com/Yoha02/AI_Trainings/actions/workflows/labs.yml) run on pull requests and updates to `main`. Inspect the run for your revision to see the actual result; an edited checkout is not covered by a remote pass.
+
+To check your local files:
 
 ```sh
 python -m pytest tests -q
