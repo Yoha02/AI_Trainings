@@ -1,0 +1,33 @@
+{
+  "validated_on": "2026-09-22",
+  "backend": "Vertex AI",
+  "location": "global",
+  "scope": "Four live smoke requests; not a model-quality benchmark.",
+  "model": "gemini-3.5-flash-lite",
+  "checks": [
+    {
+      "check": "generation",
+      "response": "Refreshingly crisp and completely calorie-free, this 330 ml can of unsweetened sparkling water delivers pure carbonated hydration."
+    },
+    {
+      "check": "structured",
+      "response": "{\n  \"title\": \"Unsweetened Sparkling Water\",\n  \"description\": \"Crisp and refreshing unsweetened sparkling water in a convenient 330 ml can, perfect for hydration on the go.\"\n}"
+    },
+    {
+      "check": "generation",
+      "response": "carrot -> vegetable"
+    },
+    {
+      "check": "rag",
+      "answer": "Based on the provided documents, unused items may be returned within 30 days of purchase with a receipt [1].",
+      "sources": [
+        {
+          "text": "Returns\nThis is fictional practice data for the AI Trainings RAG lesson.\nUnused items may be returned within 30 days of purchase with a receipt.\nRefunds are issued to the original payment method.\nOpened food products are not eligible for return.",
+          "source": "sample_handbook.pdf",
+          "page": 1,
+          "score": 0.259396449044315
+        }
+      ]
+    }
+  ]
+}

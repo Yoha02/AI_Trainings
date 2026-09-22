@@ -1,0 +1,15 @@
+Page 1
+Returns
+This is fictional practice data for the AI Trainings RAG lesson.
+Unused items may be returned within 30 days of purchase with a receipt.
+Refunds are issued to the original payment method.
+Opened food products are not eligible for return.
+
+
+Page 2
+Delivery
+Standard delivery takes 3 to 5 business days.
+For a late delivery, contact support with your order number.
+The shop does not promise same-day replacement delivery.
+This handbook contains no international shipping or warranty policy.
+
