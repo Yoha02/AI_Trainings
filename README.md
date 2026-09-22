@@ -12,7 +12,7 @@ Each lab has a [reference solution](Solutions/). The notebooks share [readable b
 
 ## Start locally
 
-Basic Python knowledge is enough. Clean-environment validation used **Python 3.13 on Windows**; other platforms have not been validated in this revision. Allow several GB for dependencies, including PyTorch. The first embedding run downloads the public `all-MiniLM-L6-v2` model and caches it. A GPU is not required.
+Basic Python knowledge is enough. The initial local validation used **Python 3.13 on Windows**. Automated checks now target Windows and Ubuntu with Python 3.13; inspect the [workflow results](https://github.com/Yoha02/AI_Trainings/actions/workflows/labs.yml) for your revision. macOS has not been validated. Allow several GB for dependencies, including PyTorch. The first embedding run downloads the public `all-MiniLM-L6-v2` model and caches it. A GPU is not required.
 
 ```sh
 git clone https://github.com/Yoha02/AI_Trainings.git
