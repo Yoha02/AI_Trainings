@@ -45,3 +45,7 @@ Before publishing marketing content, separate supplied product facts from inferr
 - The Gemini Developer API backend and hosted Qdrant were not exercised live.
 - PDF OCR, prompt-injection resistance, sensitive-data use, production session isolation, and citation correctness across a larger dataset have not been established.
 - An independent learner walkthrough is still needed. Record confusing steps and incorporate corrections before describing the material as validated with learners.
+
+## Follow-up: source evidence in chat history
+
+The Streamlit app now retains retrieved excerpts with each answer, including after another question or interface rerun. A regression test reproduced the disappearing-source problem before the fix and passed afterward. The full local suite passed **12 tests** in the same Python 3.13 environment. This follow-up used a simulated RAG response for the interface check and made no additional live Google requests.

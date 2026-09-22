@@ -3,6 +3,15 @@ import hashlib
 import streamlit as st
 from lab_support import DEFAULT_MODEL, RagSession
 
+
+def render_sources(sources):
+    if sources:
+        with st.expander("Retrieved sources: check that they support the answer"):
+            for i, source in enumerate(sources, 1):
+                st.write(f"[{i}] {source['source']}, page {source['page']}")
+                st.write(source["text"])
+
+
 st.set_page_config(page_title="Learn RAG: ask a PDF", layout="wide")
 st.title("Ask a PDF")
 st.caption("Lab 3: retrieve document passages, then ask Gemini for a grounded answer.")
@@ -40,6 +49,7 @@ if st.button("Index documents", disabled=not files):
 for message in st.session_state.messages:
     with st.chat_message(message["role"]):
         st.markdown(message["content"])
+        render_sources(message.get("sources", []))
 question = st.chat_input("Ask about the indexed documents", disabled=st.session_state.rag is None)
 if question:
     st.session_state.messages.append({"role": "user", "content": question})
@@ -49,11 +59,9 @@ if question:
         try:
             result = st.session_state.rag.answer(question)
             st.markdown(result["answer"])
-            with st.expander("Retrieved sources: check that they support the answer"):
-                for i, source in enumerate(result["sources"], 1):
-                    st.write(f"[{i}] {source['source']}, page {source['page']}")
-                    st.write(source["text"])
-            st.session_state.messages.append({"role": "assistant", "content": result["answer"]})
+            render_sources(result["sources"])
+            st.session_state.messages.append({"role": "assistant", "content": result["answer"],
+                                              "sources": result["sources"]})
         except Exception:
             st.error("Generation failed. Check the backend, credentials, model availability, and quota using the README.")
 if st.button("Clear session", disabled=st.session_state.rag is None):
