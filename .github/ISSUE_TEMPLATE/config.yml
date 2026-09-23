@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Ask a lab question
+    url: https://github.com/Yoha02/AI_Trainings/discussions/categories/q-a
+    about: Get help with setup, understand an example, or discuss an unexpected result.

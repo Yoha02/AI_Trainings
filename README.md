@@ -139,7 +139,11 @@ It checks generation, JSON parsing, a few-shot response, and an answer grounded 
 
 Change chunk size or retrieved passage count in Lab 3. Record the question, retrieved pages, answer, and whether the evidence supports it. Include an unanswerable question. If retrieval misses the relevant page, repair retrieval before changing the generation prompt.
 
-Open an issue with Python version, lab/cell, expected result, and the error with credentials removed. Improvements to instructions and examples are welcome.
+## Ask, compare, and contribute
+
+Use [Q&A Discussions](https://github.com/Yoha02/AI_Trainings/discussions/categories/q-a) for lesson questions, setup help, and results you want to understand. The question form helps you include the lab/cell, Python version, backend, expected result, and observed behavior.
+
+See [getting help](docs/getting-help.md) for common setup questions. For a reproducible bug, open an issue with a small example and credentials removed. Improvements to instructions, experiments, and code are welcome; [contribution guidance](CONTRIBUTING.md) explains how to get started.
 
 Contributors include [Yoha02](https://github.com/Yoha02) and [renoschubert](https://github.com/renoschubert). See repository history for authorship. Licensed under [MIT](LICENSE).
 
