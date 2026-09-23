@@ -1,0 +1,63 @@
+title: "[Lab question]: "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Ask about a lesson, an unexpected result, or a setup problem. Include a small example others can reproduce.
+        Please remove API keys, tokens, and private document text before posting.
+  - type: dropdown
+    id: lesson
+    attributes:
+      label: Which lesson or tool?
+      options:
+        - Lab 1 - Marketing content
+        - Lab 2 - Vector search
+        - Lab 3 - PDF RAG
+        - Streamlit PDF chatbot
+        - Lab companion / automated checks
+        - General setup or learning question
+    validations:
+      required: true
+  - type: input
+    id: environment
+    attributes:
+      label: Python version and operating system
+      placeholder: "Python 3.13, Windows 11; local virtual environment"
+    validations:
+      required: true
+  - type: input
+    id: revision
+    attributes:
+      label: Repository revision, if known
+      description: "Find the commit with git rev-parse HEAD or the lab companion. Mention any local edits."
+  - type: dropdown
+    id: backend
+    attributes:
+      label: Google backend
+      options:
+        - Not using Google / local-only question
+        - Vertex AI
+        - Gemini Developer API
+        - Not sure
+    validations:
+      required: true
+  - type: textarea
+    id: question
+    attributes:
+      label: What are you trying to understand or do?
+      description: "Name the notebook and cell, app step, or command. Include the smallest example that shows the question."
+    validations:
+      required: true
+  - type: textarea
+    id: expected-observed
+    attributes:
+      label: What did you expect, and what happened?
+      description: "For RAG questions, include the sample question and retrieved page numbers. You can use the fictional handbook to avoid sharing private documents."
+    validations:
+      required: true
+  - type: textarea
+    id: error
+    attributes:
+      label: Relevant error or output, if any
+      description: "Share the relevant excerpt with secrets removed. Do not paste your full environment or credential files."
+      render: text
