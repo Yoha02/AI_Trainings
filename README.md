@@ -10,6 +10,8 @@ Three Python labs connect prompting, vector search, and a PDF question-answering
 
 Each lab has a [reference solution](Solutions/). The notebooks share [readable building blocks](lab_support.py) with the [Streamlit app](rag_chatbot_app.py).
 
+**Try one focused exercise:** [A search result is not an answer](docs/retrieval-walkthrough.md). Inspect real PDF passages for two answerable questions and one missing policy. It runs locally without an API key or paid model calls; allow about ten minutes after dependency setup.
+
 ## Start locally
 
 Basic Python knowledge is enough. The initial local validation used **Python 3.13 on Windows**. Automated checks now target Windows and Ubuntu with Python 3.13; inspect the [workflow results](https://github.com/Yoha02/AI_Trainings/actions/workflows/labs.yml) for your revision. macOS has not been validated. Allow several GB for dependencies, including PyTorch. The first embedding run downloads the public `all-MiniLM-L6-v2` model and caches it. A GPU is not required.
